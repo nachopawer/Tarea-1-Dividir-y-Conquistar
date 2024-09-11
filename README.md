@@ -12,7 +12,11 @@ AMBIENTE DE EJECUCION Y DESARROLLO
 --------------------------------------------------------------------
 EJECUCIÓN
 --------------------------------------------------------------------
-- ...
+- Para obtener los resultados (tiempos de ordenamiento), lo primero
+ejecutar es el archivo DataSetsOrdenamiento.cpp para generar los 12
+datasets (4 aleatorios, 4 ordenados y 4 invertidos), luego al
+ejecutar cada algoritmo por separado podemos obtener los tiempos de
+este mismo.
 
 --------------------------------------------------------------------
 CONSIDERACIONES AL MOMENTO DE EJECUTAR
