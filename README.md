@@ -19,14 +19,9 @@ ejecutar cada algoritmo por separado podemos obtener los tiempos de
 este mismo.
 
 --------------------------------------------------------------------
-CONSIDERACIONES AL MOMENTO DE EJECUTAR
---------------------------------------------------------------------
-- ...
-
---------------------------------------------------------------------
 DESARROLLO REALIZADO
 --------------------------------------------------------------------
-- ...
+- Todo codigo realizado en lenguaje C++.
 
 --------------------------------------------------------------------
 NOMBRE Y ROL INTEGRANTE
